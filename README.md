@@ -1,4 +1,4 @@
-# Demo
+# Demo link
 https://quizzical-austin-473ca5.netlify.app/
 
 ## Project setup
